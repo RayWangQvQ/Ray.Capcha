@@ -1,0 +1,12 @@
+D:\myapp\ReCapcha\ReCapcha\ImageProcess\bin\Debug\ImageProcess.dll
+D:\myapp\ReCapcha\ReCapcha\ImageProcess\bin\Debug\ImageProcess.pdb
+D:\myapp\ReCapcha\ReCapcha\ImageProcess\obj\Debug\ImageProcess.csprojAssemblyReference.cache
+D:\myapp\ReCapcha\ReCapcha\ImageProcess\obj\Debug\ImageProcess.csproj.CoreCompileInputs.cache
+D:\myapp\ReCapcha\ReCapcha\ImageProcess\obj\Debug\ImageProcess.dll
+D:\myapp\ReCapcha\ReCapcha\ImageProcess\obj\Debug\ImageProcess.pdb
+D:\Repository\ReCapcha\RECAPTCHA\ImageProcess\bin\Debug\ImageProcess.dll
+D:\Repository\ReCapcha\RECAPTCHA\ImageProcess\bin\Debug\ImageProcess.pdb
+D:\Repository\ReCapcha\RECAPTCHA\ImageProcess\obj\Debug\ImageProcess.csprojAssemblyReference.cache
+D:\Repository\ReCapcha\RECAPTCHA\ImageProcess\obj\Debug\ImageProcess.csproj.CoreCompileInputs.cache
+D:\Repository\ReCapcha\RECAPTCHA\ImageProcess\obj\Debug\ImageProcess.dll
+D:\Repository\ReCapcha\RECAPTCHA\ImageProcess\obj\Debug\ImageProcess.pdb
